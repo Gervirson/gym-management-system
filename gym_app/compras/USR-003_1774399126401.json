@@ -1,0 +1,19 @@
+{
+  "UsuarioID": "USR-003",
+  "Items": [
+    {
+      "item": "WhereIn Protein",
+      "precio": 350.0
+    },
+    {
+      "item": "Pastilla Azul",
+      "precio": 25.0
+    },
+    {
+      "item": "Cannabis",
+      "precio": 150.0
+    }
+  ],
+  "PrecioTotal": 525.0,
+  "FechaHora": "2026-03-24T20:38:46.401378"
+}

@@ -1,0 +1,42 @@
+Map<String, Map<String, String>> traducciones = {
+  "es": {
+    "welcome": "BIENVENIDO AL SISTEMA DE GESTIÓN DE USUARIOS DE NovaSoft Solutions",
+    "menu_option_1": "CREAR USUARIO",
+    "menu_option_2": "ACTUALIZAR USUARIO",
+    "menu_option_3": "ELIMINAR USUARIO",
+    "menu_option_4": "VISUALIZAR USUARIOS",
+    "menu_option_5": "TIEMPO ACTIVO DE USUARIOS",
+    "menu_option_6": "DESCUENTOS DE CUMPLEAÑOS",
+    "menu_option_7": "REGISTRO DE COMPRAS",
+    "menu_option_8": "CAMBIAR IDIOMA",
+    "menu_option_9": "SALIR",
+    "select_option": "Selecciona una opción: ",
+  },
+  "en": {
+    "welcome": "WELCOME TO GYMFORTE USER MANAGEMENT SYSTEM",
+    "menu_option_1": "CREATE USER",
+    "menu_option_2": "UPDATE USER",
+    "menu_option_3": "DELETE USER",
+    "menu_option_4": "VIEW USERS",
+    "menu_option_5": "USER ACTIVE TIME",
+    "menu_option_6": "BIRTHDAY DISCOUNTS",
+    "menu_option_7": "PURCHASE RECORDS",
+    "menu_option_8": "CHANGE LANGUAGE",
+    "menu_option_9": "EXIT",
+    "select_option": "Select an option: ",
+  },
+  "fr": {
+    "welcome": "BIENVENUE AU SYSTÈME DE GESTION GYMFORTE",
+    "menu_option_1": "CRÉER UN UTILISATEUR",
+    "menu_option_2": "METTRE À JOUR UN UTILISATEUR",
+    "menu_option_3": "SUPPRIMER UN UTILISATEUR",
+    "menu_option_4": "VOIR LES UTILISATEURS",
+    "menu_option_5": "TEMPS ACTIF DES UTILISATEURS",
+    "menu_option_6": "RÉDUCTIONS D'ANNIVERSAIRE",
+    "menu_option_7": "ENREGISTREMENT DES ACHATS",
+    "menu_option_8": "CHANGER DE LANGUE",
+    "menu_option_9": "QUITTER",
+
+    "select_option": "Choisissez une option: ",
+  }
+};
